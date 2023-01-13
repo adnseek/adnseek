@@ -4,7 +4,7 @@
 - 📫 How to reach us: Nowhere, we act secretly
 
 
-The Impoprt Pipeline has the following order:
+The Import Pipeline has the following order:
 
 - Import
 - Comparison
