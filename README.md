@@ -1,0 +1,4 @@
+- 👋 Hi, We are @adnseek
+- 👀 We develop a high speed automated pipeline to generate shops
+- 🌱 I’m currently learning Golang - its the speed yo
+- 📫 How to reach me: Nowhere, we act secretly
