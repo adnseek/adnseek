@@ -9,3 +9,4 @@ The Import Pipeline has the following order:
 - Import
 - Comparison
 - Reindex
+- Publish
